@@ -65,14 +65,6 @@ int* newTicket(void)
 }
 
 
-
-
-
-
-
-
-
-
 int main(void)
 {
     srand(time(NULL));
